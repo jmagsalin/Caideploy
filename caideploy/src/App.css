@@ -20,3 +20,168 @@
 .App-link {
   color: #09d3ac;
 }
+
+
+.navBar {
+  font-size: 20px;
+  background-color: black;
+  color:#E19B24;
+  
+}
+
+.dropLink {
+  background-color: transparent;
+  color: #E19B24;
+  text-decoration-color: tomato;
+}
+
+.servicesLink {
+  color:#E19B24;
+  text-decoration-color: orange;
+ 
+}
+.carousel {
+   align-content: center;
+   flex-direction: column;
+   color: yellow
+  }
+ 
+.cats {
+  font-style: bold;
+  text-align: left;
+}
+
+.aboutText {
+  text-align: left;
+  font-size: 20px;
+}
+
+.about {  
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+.footer {
+  background-color: black;
+  color: orange;
+  
+}
+
+.footerp {
+  color: #E19B24;
+  text-align: match-parent;
+}
+
+.footerb {
+  font-size: 100px;
+  font-style: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cardRow {
+  align-items: center;
+}
+.cardTitle {
+  background-color: #E19B24;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 70px;
+}
+
+.cardList {
+  background-color: yellow;
+  color: #E19B24;
+  font-size: large;
+  font-style: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-block-color: #E19B24;
+}
+
+.resJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2015/03/02/12/07/minecraft-655902_1280.png");
+  color: white;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+}
+
+.comJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/06/11/08/white-2591360_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+}
+
+.aboutJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/04/06/51/san-diego-2579198_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 290px;
+}
+
+.appJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2018/03/01/09/33/business-3190209_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 290px;
+}
+
+.testimonials {
+  background-color: black;
+  color: #E19B24;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.schCard {
+  font-size: 20px;
+  text-align: left;
+}
+
+.schCardItem {
+  background-color: black;
+  color: #E19B24;
+}
+
+.schHr {
+  color: black;
+  background-color: black;
+  
+}
+
+.appColList {
+  border-spacing: 20px;
+  list-style: outside;
+}
+
+.appBr {
+  display: block;
+  margin-top: 10px;
+}
+
+.textArea {
+  height: 20px;
+}
+
+.formButton {
+  background-color: black;
+}
+
+.formBack {
+  background: linear-gradient(#E19B24, black);
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+}
