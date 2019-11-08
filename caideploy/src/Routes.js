@@ -6,6 +6,7 @@ import About from "./About"
 import Residential from "./Residential"
 import Commercial from "./Commercial"
 import Appointment from "./Appointment"
+import Caiamy from "./caiamy-white.jpg"
 
 class Routes extends Component {
 
@@ -19,7 +20,7 @@ render (){
             
             <img
                 alt=""
-                src="https://images.squarespace-cdn.com/content/5ba145d73e2d09c1cea74e0f/1552208483166-JZ0BOAIBBKTRKSR9JH5X/caiamy-white.jpg?format=1000w&content-type=image%2Fjpeg"
+                src={Caiamy}
                 width="220"
                 height="75"
                 className="d-inline-block align-top"
@@ -78,9 +79,9 @@ render (){
               className= "footerb" 
               size = "lg"
               >Schedule an Appointment</Button><br></br>
-      <img
+        <img
               alt=""
-              src="https://images.squarespace-cdn.com/content/5ba145d73e2d09c1cea74e0f/1552208483166-JZ0BOAIBBKTRKSR9JH5X/caiamy-white.jpg?format=1000w&content-type=image%2Fjpeg"
+              src={Caiamy}
               width="220"
               height="75"
               className="d-inline-block align-top"
